@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Teste.Repository.IRepository
 {
-    public interface ITesteRepository
+    public interface IMaridoDeAluguelRepository
     {
     }
 }

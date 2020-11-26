@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\T-Gamer\\Documents\\ProjetoAngular\\MaridoDeAluguel\\API\\Teste\\Teste.csproj": {}
+    "C:\\Users\\T-Gamer\\Documents\\ProjetoAngular\\MaridoDeAluguel\\API\\Teste\\MaridoDeAluguelAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\T-Gamer\\Documents\\ProjetoAngular\\MaridoDeAluguel\\API\\Teste\\Teste.csproj": {
+    "C:\\Users\\T-Gamer\\Documents\\ProjetoAngular\\MaridoDeAluguel\\API\\Teste\\MaridoDeAluguelAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\T-Gamer\\Documents\\ProjetoAngular\\MaridoDeAluguel\\API\\Teste\\Teste.csproj",
-        "projectName": "Teste",
-        "projectPath": "C:\\Users\\T-Gamer\\Documents\\ProjetoAngular\\MaridoDeAluguel\\API\\Teste\\Teste.csproj",
+        "projectUniqueName": "C:\\Users\\T-Gamer\\Documents\\ProjetoAngular\\MaridoDeAluguel\\API\\Teste\\MaridoDeAluguelAPI.csproj",
+        "projectName": "MaridoDeAluguelAPI",
+        "projectPath": "C:\\Users\\T-Gamer\\Documents\\ProjetoAngular\\MaridoDeAluguel\\API\\Teste\\MaridoDeAluguelAPI.csproj",
         "packagesPath": "C:\\Users\\T-Gamer\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\T-Gamer\\Documents\\ProjetoAngular\\MaridoDeAluguel\\API\\Teste\\obj\\",
         "projectStyle": "PackageReference",

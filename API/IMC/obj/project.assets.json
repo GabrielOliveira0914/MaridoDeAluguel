@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\gabri\\.nuget\\packages\\": {}
+    "C:\\Users\\T-Gamer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\source\\repos\\Teste\\IMC\\IMC.csproj",
-      "projectName": "IMC",
-      "projectPath": "C:\\Users\\gabri\\source\\repos\\Teste\\IMC\\IMC.csproj",
-      "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\source\\repos\\Teste\\IMC\\obj\\",
+      "projectUniqueName": "C:\\Users\\T-Gamer\\Documents\\ProjetoAngular\\MaridoDeAluguel\\API\\IMC\\MaridoDeAluguel.csproj",
+      "projectName": "MaridoDeAluguel",
+      "projectPath": "C:\\Users\\T-Gamer\\Documents\\ProjetoAngular\\MaridoDeAluguel\\API\\IMC\\MaridoDeAluguel.csproj",
+      "packagesPath": "C:\\Users\\T-Gamer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\T-Gamer\\Documents\\ProjetoAngular\\MaridoDeAluguel\\API\\IMC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\T-Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,6 +44,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

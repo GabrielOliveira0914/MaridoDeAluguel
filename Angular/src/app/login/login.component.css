@@ -1,0 +1,284 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video, label {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+html, body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.logomarca{
+ width: 100px;
+ height: 33px;
+ background: url("../../assets/images/logo.png") no-repeat 0 0;
+ display: block;
+}
+
+.logo{
+    float: left;
+}
+
+.menu{
+    float: right;
+}
+
+.menu_li{
+    float: left;
+    margin: 0 10px;
+}
+
+.menu_link{
+    color: #32373c;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.clear{
+    clear: both;
+}
+
+.center{
+    width: 1110px;
+    margin: 0 auto;
+}
+
+.apresentacao{
+    padding-top: 40px;
+}
+
+.bt-entrar{
+    border: 1px solid #32373c;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    color: darkslategray;
+    padding: 10px 30px;
+    border-radius: 4px;
+    margin-left: 200px;
+}
+
+.bt-registrar{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    color: #ffffff;
+    padding: 10px 30px;
+    border-radius: 4px;
+    background: black;
+}
+
+.apresentacao_descricao{
+    width: 50%;
+    float: left;
+}
+
+.apresentacao_imagem{
+    width: 50%;
+    float: left;
+}
+
+.title-apresentacao{
+    color: #3b3322;
+    font-size: 44px;
+    line-height: 48px;
+}
+
+.descricao-apresentacao{
+    color: #544837;
+    font-size: 18px;
+    line-height: 24px;
+    margin: 5px 0 15px 0;
+}
+
+.pesquisar{
+    font-size: 16px;
+    padding-top: 12px 30px;
+}
+
+.bt-red{
+    background: #32373c;
+    font-size: 16px;
+    font-weight: 600;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 3px 10px;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+.box-icone{
+    width: 100px;
+    height: 100px;
+    border: 2px solid #32373c;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.box-icone img{
+    margin-top: 20px;
+}
+
+.box-icone_titulo{
+    font-size: 25px;
+    font-weight: 600;
+    margin: 15px 0;
+}
+
+.box-icone_texto{
+    font-size: 15px;
+    color: #32373c;
+    line-height: 22px;
+}
+
+.box-wrapper{
+    width: 30%;
+    float: left;
+}
+
+.icones{
+    padding: 150px 0 250px 0;
+}
+
+.box-ilustracao{
+    width: 50%;
+    float: left;
+}
+
+.about-box{
+    width: 50%;
+    float: left;
+}
+
+.about-box_title{
+    font-size: 17px;
+    line-height: 19px;
+    color: #32373c;
+}
+
+.about-box_title span{
+    float: left;
+    opacity: 1;
+    padding: 6px 10px 0 0;
+}
+
+.about-box_title i{
+    float: left;
+}
+
+.about-box_subtitle{
+    color: #32373c;
+    font-size: 20px;
+    line-height: 44px;
+    font-weight: 600;
+    margin: 10px 0 20px 0;
+}
+
+.checklist{
+    width: 24px;
+    height: 24px;
+    background: url(../../assets/images/icone-checklist.png) 0 0 no-repeat;
+    float: left;
+}
+
+.item-list-about{
+    margin-bottom: 20px;
+}
+
+.item-list-about span{
+    float: left;
+    padding: 5px 0 0 10px;
+}
+
+#login-container{
+    background-color: #ffffff;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 30px;
+    margin-top: 10vh;
+    border-radius: 10px;
+    text-align: center;
+}
+
+form {
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+label, input {
+    display: block;
+    width: 100%;
+    text-align: left;
+}
+
+
+label{
+    font-weight: bold;
+}
+
+input{
+    border-bottom: 2px solid #32373c;
+    padding: 10px;
+    font-size: 1rem;
+    margin-bottom: 20px;
+}
+
+input:focus {
+    border-bottom: 2px solid #32373c;
+}
+
+#forgot-pass{
+    text-align: right;
+    display: block;
+}
+
+input[type="submit"]{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: none;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 30px;
+    color: #32373c;
+    cursor: pointer;
+}

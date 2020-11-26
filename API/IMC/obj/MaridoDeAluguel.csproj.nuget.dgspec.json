@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\T-Gamer\\Documents\\ProjetoAngular\\MaridoDeAluguel\\API\\Teste\\Teste.csproj": {}
+    "C:\\Users\\T-Gamer\\Documents\\ProjetoAngular\\MaridoDeAluguel\\API\\IMC\\MaridoDeAluguel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\T-Gamer\\Documents\\ProjetoAngular\\MaridoDeAluguel\\API\\Teste\\Teste.csproj": {
+    "C:\\Users\\T-Gamer\\Documents\\ProjetoAngular\\MaridoDeAluguel\\API\\IMC\\MaridoDeAluguel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\T-Gamer\\Documents\\ProjetoAngular\\MaridoDeAluguel\\API\\Teste\\Teste.csproj",
-        "projectName": "Teste",
-        "projectPath": "C:\\Users\\T-Gamer\\Documents\\ProjetoAngular\\MaridoDeAluguel\\API\\Teste\\Teste.csproj",
+        "projectUniqueName": "C:\\Users\\T-Gamer\\Documents\\ProjetoAngular\\MaridoDeAluguel\\API\\IMC\\MaridoDeAluguel.csproj",
+        "projectName": "MaridoDeAluguel",
+        "projectPath": "C:\\Users\\T-Gamer\\Documents\\ProjetoAngular\\MaridoDeAluguel\\API\\IMC\\MaridoDeAluguel.csproj",
         "packagesPath": "C:\\Users\\T-Gamer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\T-Gamer\\Documents\\ProjetoAngular\\MaridoDeAluguel\\API\\Teste\\obj\\",
+        "outputPath": "C:\\Users\\T-Gamer\\Documents\\ProjetoAngular\\MaridoDeAluguel\\API\\IMC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\T-Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,16 +39,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[12.0.3, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[5.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -60,9 +50,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

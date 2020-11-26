@@ -228,19 +228,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gabri\\.nuget\\packages\\": {}
+    "C:\\Users\\T-Gamer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\source\\repos\\Teste\\Teste\\Teste.csproj",
-      "projectName": "Teste",
-      "projectPath": "C:\\Users\\gabri\\source\\repos\\Teste\\Teste\\Teste.csproj",
-      "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\source\\repos\\Teste\\Teste\\obj\\",
+      "projectUniqueName": "C:\\Users\\T-Gamer\\Documents\\ProjetoAngular\\MaridoDeAluguel\\API\\Teste\\MaridoDeAluguelAPI.csproj",
+      "projectName": "MaridoDeAluguelAPI",
+      "projectPath": "C:\\Users\\T-Gamer\\Documents\\ProjetoAngular\\MaridoDeAluguel\\API\\Teste\\MaridoDeAluguelAPI.csproj",
+      "packagesPath": "C:\\Users\\T-Gamer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\T-Gamer\\Documents\\ProjetoAngular\\MaridoDeAluguel\\API\\Teste\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\T-Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -252,6 +252,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -263,6 +264,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Newtonsoft.Json": {
             "target": "Package",
@@ -291,7 +293,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,13 @@
+C:\Users\T-Gamer\Documents\ProjetoAngular\MaridoDeAluguel\API\IMC\bin\Debug\netcoreapp3.1\MaridoDeAluguel.exe
+C:\Users\T-Gamer\Documents\ProjetoAngular\MaridoDeAluguel\API\IMC\bin\Debug\netcoreapp3.1\MaridoDeAluguel.deps.json
+C:\Users\T-Gamer\Documents\ProjetoAngular\MaridoDeAluguel\API\IMC\bin\Debug\netcoreapp3.1\MaridoDeAluguel.runtimeconfig.json
+C:\Users\T-Gamer\Documents\ProjetoAngular\MaridoDeAluguel\API\IMC\bin\Debug\netcoreapp3.1\MaridoDeAluguel.runtimeconfig.dev.json
+C:\Users\T-Gamer\Documents\ProjetoAngular\MaridoDeAluguel\API\IMC\bin\Debug\netcoreapp3.1\MaridoDeAluguel.dll
+C:\Users\T-Gamer\Documents\ProjetoAngular\MaridoDeAluguel\API\IMC\bin\Debug\netcoreapp3.1\MaridoDeAluguel.pdb
+C:\Users\T-Gamer\Documents\ProjetoAngular\MaridoDeAluguel\API\IMC\obj\Debug\netcoreapp3.1\MaridoDeAluguel.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Documents\ProjetoAngular\MaridoDeAluguel\API\IMC\obj\Debug\netcoreapp3.1\MaridoDeAluguel.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Documents\ProjetoAngular\MaridoDeAluguel\API\IMC\obj\Debug\netcoreapp3.1\MaridoDeAluguel.AssemblyInfo.cs
+C:\Users\T-Gamer\Documents\ProjetoAngular\MaridoDeAluguel\API\IMC\obj\Debug\netcoreapp3.1\MaridoDeAluguel.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Documents\ProjetoAngular\MaridoDeAluguel\API\IMC\obj\Debug\netcoreapp3.1\MaridoDeAluguel.dll
+C:\Users\T-Gamer\Documents\ProjetoAngular\MaridoDeAluguel\API\IMC\obj\Debug\netcoreapp3.1\MaridoDeAluguel.pdb
+C:\Users\T-Gamer\Documents\ProjetoAngular\MaridoDeAluguel\API\IMC\obj\Debug\netcoreapp3.1\MaridoDeAluguel.genruntimeconfig.cache

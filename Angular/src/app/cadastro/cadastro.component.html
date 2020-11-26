@@ -1,0 +1,52 @@
+<div class="form">
+    <form id="contactform">
+        <p class="contact"><label for="name">Nome</label></p>
+        <input id="name" name="name" placeholder="Nome e Sobrenome" required="" tabindex="1" type="text">
+
+        <p class="contact"><label for="email">Email</label></p>
+        <input id="email" name="email" placeholder="exemplo@hotmail.com" required="" type="email">
+
+        <p class="contact"><label for="username">Criar um nome de usuário</label></p>
+        <input id="username" name="username" placeholder="usuario" required="" tabindex="2" type="text">
+
+        <p class="contact"><label for="password">Criar uma senha</label></p>
+        <input type="password" id="password" name="password" required="" type="text">
+        <p class="contact"><label for="repassword">Confirmar sua senha</label></p>
+        <input type="password" id="password" name="password" required="" type="text">
+
+        <fieldset>
+            <label>Dia<input class="birthday" maxlength="2" name="BirthDay" placeholder="Dia" required=""></label>
+            <label>Aniversário</label>
+            <label class="month">
+                <select class="select-style" name="BirthMonth">
+                    <option value="">Mês</option>
+                    <option value="01">Janeiro</option>
+                    <option value="02">Fevereiro</option>
+                    <option value="03">Março</option>
+                    <option value="04">Abril</option>
+                    <option value="05">Maio</option>
+                    <option value="06">Junho</option>
+                    <option value="07">Julho</option>
+                    <option value="08">Agosto</option>
+                    <option value="09">Setembro</option>
+                    <option value="10">outubro</option>
+                    <option value="11">Novembro</option>
+                    <option value="12">Dezembro</option>
+                </select>
+            </label>
+            <label>Ano <input class="birthyear" maxlength="4" name="BirthYear" placeholder="Ano"
+                required=""></label>
+        </fieldset>
+
+        <select class="select-style gender" name="gender">
+            <option value="select">Eu sou...</option>
+            <option value="m">Masculino</option>
+            <option value="f">Feminino</option>
+            <option value="others">Outro</option>
+        </select><br><br>
+
+        <p class="contact"><label for="phone">Número de telefone</label></p>
+        <input id="phone" name="phone" placeholder="número do telefone" required="" type="text"> <br>
+        <input class="buttom" name="submit" id="submit" tabindex="5" value="Registre-se" type="submit">
+    </form>
+</div>

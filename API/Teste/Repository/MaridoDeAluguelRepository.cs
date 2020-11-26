@@ -6,7 +6,7 @@ using Teste.Repository.IRepository;
 
 namespace Teste.Repository
 {
-    public class TesteRepository : ITesteRepository
+    public class MaridoDeAluguelRepository : IMaridoDeAluguelRepository
     {
 
     }

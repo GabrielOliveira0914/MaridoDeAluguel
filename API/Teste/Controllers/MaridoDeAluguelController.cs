@@ -12,11 +12,11 @@ namespace Teste.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class TesteController : Controller
+    public class MaridoDeAluguelController : Controller
     {
         private readonly ITesteService _testeService;
 
-        public TesteController(ITesteService testeService)
+        public MaridoDeAluguelController(ITesteService testeService)
         {
             _testeService = testeService;
         }
