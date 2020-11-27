@@ -14,18 +14,18 @@ namespace Teste.Controllers
     [Route("[controller]")]
     public class MaridoDeAluguelController : Controller
     {
-        private readonly ITesteService _testeService;
+        private readonly IMaridoDeAluguelService _MaridoDeAluguelService;
 
-        public MaridoDeAluguelController(ITesteService testeService)
+        public MaridoDeAluguelController(IMaridoDeAluguelService testeService)
         {
-            _testeService = testeService;
+            _MaridoDeAluguelService = testeService;
         }
 
         [HttpPut]
         [Route("/imc")]
         public string GetIMC([FromBody]IndiceMC imc)
         {
-            return _testeService.IMC(imc);
+            return _MaridoDeAluguelService.IMC(imc);
         }
     }
 }
