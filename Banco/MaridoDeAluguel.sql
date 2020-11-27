@@ -1,7 +1,3 @@
-create database MaridoDeAluguel;
-
-use MaridoDeAluguel;
-
 create table cadastro_cliente (
 	id_cliente int not null auto_increment, 
     nome_cliente varchar(30) not null,
