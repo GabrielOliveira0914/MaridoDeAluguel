@@ -6,7 +6,7 @@ using Teste.Model;
 
 namespace Teste.Service.Interface
 {
-    public interface ITesteService
+    public interface IMaridoDeAluguelService
     {
         string IMC(IndiceMC imc);
     }

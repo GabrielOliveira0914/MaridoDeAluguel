@@ -7,7 +7,7 @@ using Teste.Service.Interface;
 
 namespace Teste.Service
 {
-    public class TesteService : ITesteService
+    public class MaridoDeAluguelService : IMaridoDeAluguelService
     {
         public string IMC(IndiceMC imc)
         {
